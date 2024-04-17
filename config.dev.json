@@ -1,9 +1,9 @@
 {
 	"email": "nnnmmm",
-	"password": "s",
+	"password": "infoprofessor61@gmail.com",
 	"adminOnly": false,
-	"adminBot": [],
-	"nickNameBot": "",
+	"adminBot": [61555393416824],
+	"nickNameBot": "Ai☄️",
 	"prefix": "#",
 	"database": {
 		"type": "local",
